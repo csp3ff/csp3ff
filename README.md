@@ -5,11 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently mager in Computer Technology
-- 🌱 I’m currently learning Computer Network
-- 📫 How to reach me: csp3ff@gmail.com
--->
-
-- 🔭 I’m currently mager in Computer Technology
+- 🔭 I’m currently major in Computer Technology
 - 🌱 I’m currently learning Computer Network
 - 📫 How to reach me: csp3ff@gmail.com
